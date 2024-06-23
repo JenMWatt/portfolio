@@ -1,12 +1,12 @@
 layout: page
 title: "info"
-permalink: info.html
+permalink: /info.html/
 layout: page
 title: "projects"
-permalink: /projects.html
+permalink: /projects.html/
 layout: page
 title: "react projects"
-permalink: /reactprojects.html
+permalink: /reactprojects.html/
 # Sample workflow for building and deploying a Jekyll site to GitHub Pages
 name: Deploy Jekyll with GitHub Pages dependencies preinstalled
 
